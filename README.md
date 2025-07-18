@@ -64,6 +64,4 @@ python main.py
 4. Delete Contact
 5. Exit
 
-Enter choice: 2
-Name: Khushi, Phone: 9876543210, Email: khushi@example.com
-```
+
